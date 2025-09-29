@@ -35,7 +35,7 @@ MWF	12:00p-12:50p
 **Office Hours:**
 Babak: TBD
 
-TAs (Jiongli/Parjanya): TBD
+TAs (Jiongli/Parjanya): Wednesday 1pm-2pm [Link](https://ucsd.zoom.us/j/96077507827)
 
 **Note:** Office hours will be held via Zoom (link can be found on the Canvas calendar). 
 
