@@ -40,60 +40,45 @@ TAs (Jiongli/Parjanya): Wednesday 1pm-2pm [Link](https://ucsd.zoom.us/j/96077507
 **Note:** Office hours will be held via Zoom (link can be found on the Canvas calendar). 
 
 
-
-
-
 ### Course Workload
 
-In this course, students will engage in a **project-based and presentation learning experience**, emphasizing teamwork, practical application of data science techniques, and effective communication. Groups of 5-6 students will collaborate to develop projects on topics relevant to the class.  
-**Team formation**: Team formation details will be announced by the TA via a Google Doc.
+In this course, students will engage in a project-based and presentation learning experience, emphasizing teamwork, practical application of data science techniques, and effective communication. Groups of 5-6 students will collaborate to present papers and develop projects on topics relevant to the class.  
+
+**Team formation**: Team formation details will be announced on canvas. 
+
+This course will involve paper presentations and projects. The grading break up is as follows: Paper Presentations (30%), Project Proposal(5%), Midterm Update (5%), Project Report (30%), Project Presentation (20%), Class Participation (10%).
 
 #### Paper Presentation (Mid-Quarter)
-- **Each team will present 2-3 related papers in one domain.** 
-- The presentation will be **20 minutes**, followed by a **10-minute discussion**. 
-- Presentation topics will be selected by the teams, and details will be announced by the TA.
+Each team will present 2 related papers in one domain. The presentation will be **15 minutes**, followed by a **5-minute discussion**. Teams will sign up for the presentation topics [here](https://docs.google.com/spreadsheets/d/1PsbWYe7Vi7m3fyBHGGzsRIctUAR7zivzQTLJONyb10A/edit?usp=sharing)
 
-- **Depth of Analysis (40%)** – Understanding, critique, and synthesis of the papers.
-- **Clarity & Organization (30%)** – Clear structure, effective visuals, and presentation.
-- **Discussion Engagement (20%)** – Thoughtful questions and interaction with the audience.
-- **Team Collaboration (10%)** – Equal contribution from all members.
+Grading for the paper presentation is split as follows:
+- Depth of Analysis (12%) – Understanding, critique, and synthesis of the papers.
+- Clarity & Organization (9%) – Clear structure, effective visuals, and presentation.
+- Discussion Engagement (6%) – Thoughtful questions and interaction with the audience.
+- Team Collaboration (3%) – Equal contribution from all members.
 
-#### Project Requirements:
-Each project must:
-
-- **Present a clearly defined hypothesis** and contribute in at least one of the following areas:
+#### Projects:
+**Guidelines for Project**
+Each project must
+- Present a clearly defined hypothesis and contribute in at least one of the following areas:
    - Propose a novel theory or algorithm.
    - Apply an existing approach to a new domain.
-   - Reimplement a paper where no public code is available.
+   - Reimplement a paper (published at top ML venues like NeurIPS/ICLR/ICML) where no public code is available.
+   - A compherensive tutorial on one of the topics listed in the [presentation sheet](https://docs.google.com/spreadsheets/d/1PsbWYe7Vi7m3fyBHGGzsRIctUAR7zivzQTLJONyb10A/edit?usp=sharing). The tutorial must have some empirical results and analysis.
 
-- **Experiments** should be rigorously designed, with well-defined, measurable metrics. All results must include error bars.
-   - For theory-focused projects, formal proofs are required.
+- Experiments should be rigorously designed, with well-defined, measurable metrics. All results must include error bars.
+- For theory-focused projects, formal proofs are required.
 
-#### Grading for Projects:
-Grading will be based on:
+**Note on Project grading**
+Projects will be graded on contribution, effort, writing and execution. Projects with thoughtfully designed experiments and solid execution will **not be penalized for yielding negative results**.
 
-- **Contribution and Effort**
-- **Writing**
-- **Execution**
-
-**Note on Results:** Projects with thoughtfully designed experiments and solid execution will **not be penalized for yielding negative results**.
-
-#### Checkpoints:
+**Project Timeline**
 The course will have three project checkpoints:
-1. **Initial Proposal**
-2. **Midterm Update**
-3. **Final Report**
+1. Initial Proposal: Due October 12 11:59 PM PST
+2. Midterm Update: Due November 2 11:59 PST
+3. Final Report: Date to be announced
 
 Students are encouraged to meet with the instructor team regularly for guidance. The project will culminate in a short in-class presentation, where students will also create visual posters and dynamic presentations.
-
-#### Grading for Projects: 
-Evaluation will consider:
-1. **Team Effort**
-2. **Quality of Related Work Survey**
-3. **Effectiveness of Presentation**
-4. **Final Report**
-5. **Peer Reviews** (constructive feedback from and to peers)
-
 
 Titles and abstracts of courses in the last offering can be found here: [Past Projects](past_projects.md)
 
