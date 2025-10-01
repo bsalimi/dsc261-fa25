@@ -105,17 +105,6 @@ Titles and abstracts of courses in the last offering can be found here: [Past Pr
 - **Activities**: Finalize project outcomes. Prepare demonstration models and poster presentations.
 
 
-### Grading Breakdown
-
-- **Paper Presentation**: 30%
-- **Project Proposal**: 10%
-- **Execution**: 30%
-- **Demonstration**: 10%
-- **Project Presentation**: 10%
-- **Class Participation**: 10%
-
-
-
 ## **Calender:**
 
 **(subject to change)**
