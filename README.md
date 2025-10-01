@@ -82,29 +82,6 @@ Students are encouraged to meet with the instructor team regularly for guidance.
 
 Titles and abstracts of courses in the last offering can be found here: [Past Projects](past_projects.md)
 
-## Project Timeline
-
-### Week 1: Project Kickoff
-- **Activities**: Introduction to course and project guidelines. Begin forming teams.
-
-### Week 2: Team Formation and Topic Selection
-- **Activities**: Finalize teams [here](TBD). Select project topics and submit initial ideas for approval.
-- **Signup**: Sign up for the presentation time [here](TBD).
-
-### Week 3: Project Proposal Development
-- **Activities**: Develop and refine project proposals. Closely work with TAs for brainstorming. Outline objectives, methodologies, and expected outcomes.
-- **Template**: Please use this [template](https://www.overleaf.com/latex/templates/sample-acm-ccs/hqrzvbjgvfvz) for proposal and final reports.
-
-### Week 4: Proposal Submission and Feedback
-- **Activities**: Submit detailed project proposals. Receive feedback from the TAs and make necessary adjustments.
-
-### Week 5-8: Project Execution Begins
-- **Activities**: Start executing the project according to the plan. Focus on data collection and initial analysis.
-
-### Week 9-10: Project Presentation
-- **Activities**: Finalize project outcomes. Prepare demonstration models and poster presentations.
-
-
 ## **Calender:**
 
 **(subject to change)**
