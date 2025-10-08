@@ -44,7 +44,7 @@ TAs (Jiongli/Parjanya): Wednesday 1pm-2pm [Link](https://ucsd.zoom.us/j/96077507
 
 In this course, students will engage in a project-based and presentation learning experience, emphasizing teamwork, practical application of data science techniques, and effective communication. Groups of 5-6 students will collaborate to present papers and develop projects on topics relevant to the class.  
 
-**Team formation**: Team formation details will be announced on canvas. 
+**Team formation**: Team formation details will be announced on Canvas. 
 
 This course will involve paper presentations and projects. The grading break up is as follows: Paper Presentations (30%), Project Proposal(5%), Midterm Update (5%), Project Report (30%), Project Presentation (20%), Class Participation (10%).
 
@@ -64,13 +64,14 @@ Each project must
    - Propose a novel theory or algorithm.
    - Apply an existing approach to a new domain.
    - Reimplement a paper (published at top ML venues like NeurIPS/ICLR/ICML) where no public code is available.
-   - A compherensive tutorial on one of the topics listed in the [presentation sheet](https://docs.google.com/spreadsheets/d/1PsbWYe7Vi7m3fyBHGGzsRIctUAR7zivzQTLJONyb10A/edit?usp=sharing). The tutorial must have some empirical results and analysis.
+   - A comprehensive tutorial on one of the topics listed in the [presentation sheet](https://docs.google.com/spreadsheets/d/1PsbWYe7Vi7m3fyBHGGzsRIctUAR7zivzQTLJONyb10A/edit?usp=sharing). The tutorial must have some empirical results and analysis.
 
 - Experiments should be rigorously designed, with well-defined, measurable metrics. All results must include error bars.
 - For theory-focused projects, formal proofs are required.
+- Please use this [template](https://www.overleaf.com/latex/templates/sample-acm-ccs/hqrzvbjgvfvz) for project reports.
 
 **Note on Project grading**
-Projects will be graded on contribution, effort, writing and execution. Projects with thoughtfully designed experiments and solid execution will **not be penalized for yielding negative results**.
+Projects will be graded on contribution, effort, writing, and execution. Projects with thoughtfully designed experiments and solid execution will **not be penalized for yielding negative results**.
 
 **Project Timeline**
 The course will have three project checkpoints:
