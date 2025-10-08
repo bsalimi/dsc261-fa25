@@ -68,14 +68,14 @@ Each project must
 
 - Experiments should be rigorously designed, with well-defined, measurable metrics. All results must include error bars.
 - For theory-focused projects, formal proofs are required.
-- Please use this [template](https://www.overleaf.com/latex/templates/sample-acm-ccs/hqrzvbjgvfvz) for project reports.
+- Please use this [template](https://www.overleaf.com/latex/templates/sample-acm-ccs/hqrzvbjgvfvz) for project proposal and reports.
 
 **Note on Project grading**
 Projects will be graded on contribution, effort, writing, and execution. Projects with thoughtfully designed experiments and solid execution will **not be penalized for yielding negative results**.
 
 **Project Timeline**
 The course will have three project checkpoints:
-1. Initial Proposal: Due October 12 11:59 PM PST
+1. Initial Proposal: Due October 12 11:59 PM PST (Proposal must follow template and be maximum two pages). Please include in the proposal: problem statement, brief related works, collaboration plan, and datasets to be used.
 2. Midterm Update: Due November 2 11:59 PST
 3. Final Report: Date to be announced
 
