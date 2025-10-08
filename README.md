@@ -75,7 +75,7 @@ Projects will be graded on contribution, effort, writing, and execution. Project
 
 **Project Timeline**
 The course will have three project checkpoints:
-1. Initial Proposal: Due October 12 11:59 PM PST (Proposal must follow template and be maximum two pages). Please include in the proposal: problem statement, brief related works, collaboration plan, and datasets to be used.
+1. Initial Proposal: Due October 12 11:59 PM PST. The proposal must follow the provided template and be a maximum of two pages. Please include in the proposal: problem statement, brief related works, collaboration plan, and datasets to be used.
 2. Midterm Update: Due November 2 11:59 PST
 3. Final Report: Date to be announced
 
