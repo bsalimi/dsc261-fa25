@@ -67,6 +67,7 @@ Each project must
    - A comprehensive tutorial on one of the topics listed in the [presentation sheet](https://docs.google.com/spreadsheets/d/1PsbWYe7Vi7m3fyBHGGzsRIctUAR7zivzQTLJONyb10A/edit?usp=sharing). The tutorial must have some empirical results and analysis.
 
 - Experiments should be rigorously designed, with well-defined, measurable metrics. All results must include error bars.
+- The topic has to be picked from the list of paper presentation topics.
 - For theory-focused projects, formal proofs are required.
 - Please use this [template](https://www.overleaf.com/latex/templates/sample-acm-ccs/hqrzvbjgvfvz) for project proposal and reports.
 
