@@ -33,7 +33,7 @@ MWF	12:00p-12:50p
 
 
 **Office Hours:**
-Babak: TBD
+Babak: Wednesday 4pm-5pm [Link](https://ucsd.zoom.us/j/91385041878)
 
 TAs (Jiongli/Parjanya): Wednesday 1pm-2pm [Link](https://ucsd.zoom.us/j/96077507827)
 
@@ -84,10 +84,6 @@ Students are encouraged to meet with the instructor team regularly for guidance.
 
 Titles and abstracts of courses in the last offering can be found here: [Past Projects](past_projects.md)
 
-## **Calender:**
-
-**(subject to change)**
-
 # Course Calendar: 
 
 | Week | Date  | Lecture Topics                         | Slides                                                                                                                                                                                                                                   | Readings |
@@ -102,10 +98,6 @@ Titles and abstracts of courses in the last offering can be found here: [Past Pr
 | 8    | Nov 18| —                                      |                                                                                                                                                                                                                                          |          |
 | 9    | Nov 25| —                                      |                                                                                                                                                                                                                                          |          |
 | 10   | Dec 2 | —                                      |                                                                                                                                                                                                                                          |          |
-
-
-**Note**: The readings and slides are placeholders and should be replaced with actual links to resources.
-
 
 
 
