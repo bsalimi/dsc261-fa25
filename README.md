@@ -49,7 +49,7 @@ In this course, students will engage in a project-based and presentation learnin
 This course will involve paper presentations and projects. The grading break up is as follows: Paper Presentations (30%), Project Proposal(5%), Midterm Update (5%), Project Report (30%), Project Presentation (20%), Class Participation (10%).
 
 #### Paper Presentation (Mid-Quarter)
-Each team will present 2 related papers in one domain. The presentation will be **15 minutes**, followed by a **5-minute discussion**. Teams will sign up for the presentation topics [here](https://docs.google.com/spreadsheets/d/1PsbWYe7Vi7m3fyBHGGzsRIctUAR7zivzQTLJONyb10A/edit?usp=sharing)
+Each team will present 2 related papers in one domain. The presentation will be **20 minutes**, followed by a **5-minute discussion**. Teams will sign up for the presentation topics [here](https://docs.google.com/spreadsheets/d/1PsbWYe7Vi7m3fyBHGGzsRIctUAR7zivzQTLJONyb10A/edit?usp=sharing)
 
 Grading for the paper presentation is split as follows:
 - Depth of Analysis (12%) – Understanding, critique, and synthesis of the papers.
