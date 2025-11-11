@@ -57,6 +57,8 @@ Grading for the paper presentation is split as follows:
 - Discussion Engagement (6%) – Thoughtful questions and interaction with the audience.
 - Team Collaboration (3%) – Equal contribution from all members.
 
+The slides of the presentation must be submitted on canvas within one week of the presentation.
+
 #### Projects:
 **Guidelines for Project**
 Each project must
