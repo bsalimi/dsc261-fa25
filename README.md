@@ -59,7 +59,8 @@ Grading for the paper presentation is split as follows:
 
 The slides of the presentation must be submitted on canvas within one week of the presentation.
 
-Links to video recordings of presentations (Use password: N^3w^gNC)- 
+Links to video recordings of presentations (Use password: N^3w^gNC):
+
 [Nov 10](https://ucsd.zoom.us/rec/share/XUmMembRKixomt5Zf9EYLrDtrry4XPWIcywyKpjiycO9Z3FovKLkyqPMw7Y1g18d.MmT3QzsuqyFZzQik?startTime=1762804906000) 
 
 [Nov 12](https://ucsd.zoom.us/rec/share/5Re9_wSnX--uOyPQlWjAtG0de9X-ak5uSd21t_mAt9sLTIsTPSoGh7MhEgiHbWcz.hdSlxDuxzYwMdyBb?startTime=1762804906000)
