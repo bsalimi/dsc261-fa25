@@ -59,11 +59,15 @@ Grading for the paper presentation is split as follows:
 
 The slides of the presentation must be submitted on canvas within one week of the presentation.
 
-Links to video recordings of presentations (Use password: N^3w^gNC):
+Links to video recordings of presentations:
 
-[Nov 10](https://ucsd.zoom.us/rec/share/XUmMembRKixomt5Zf9EYLrDtrry4XPWIcywyKpjiycO9Z3FovKLkyqPMw7Y1g18d.MmT3QzsuqyFZzQik?startTime=1762804906000) 
+[Nov 10](https://ucsd.zoom.us/rec/share/XUmMembRKixomt5Zf9EYLrDtrry4XPWIcywyKpjiycO9Z3FovKLkyqPMw7Y1g18d.MmT3QzsuqyFZzQik?startTime=1762804906000) (Use password: N^3w^gNC)
 
-[Nov 12](https://ucsd.zoom.us/rec/share/5Re9_wSnX--uOyPQlWjAtG0de9X-ak5uSd21t_mAt9sLTIsTPSoGh7MhEgiHbWcz.hdSlxDuxzYwMdyBb?startTime=1762804906000)
+[Nov 12](https://ucsd.zoom.us/rec/share/5Re9_wSnX--uOyPQlWjAtG0de9X-ak5uSd21t_mAt9sLTIsTPSoGh7MhEgiHbWcz.hdSlxDuxzYwMdyBb?startTime=1762804906000) (Use password: N^3w^gNC)
+
+[Nov 17](https://ucsd.zoom.us/rec/share/KyFgDcDwXvEgbLeEyauXEuJ0OyL4ynz7LNsthKTzFNGyOgNsBlVCT7G6Po_RR1o.4F2o43IUFG1IeO06?startTime=1763409674000) (Use password: %QLCjb8#)
+
+[Nov 19](https://ucsd.zoom.us/rec/share/TzKXYRVBk57R8-xRpocO-U8XrAzrQBqJ9FfQCuLL40VWMRjrztYHhbkS89jdBy50.CpD5sFhAFSCUotyM) (Use password: tGy7Eva%)
 
 #### Projects:
 **Guidelines for Project**
