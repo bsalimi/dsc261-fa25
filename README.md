@@ -69,6 +69,8 @@ Links to video recordings of presentations:
 
 [Nov 19](https://ucsd.zoom.us/rec/share/TzKXYRVBk57R8-xRpocO-U8XrAzrQBqJ9FfQCuLL40VWMRjrztYHhbkS89jdBy50.CpD5sFhAFSCUotyM) (Use password: tGy7Eva%)
 
+[Nov 21](https://ucsd.zoom.us/rec/share/EzwSVHOgYrZhIw5jzoKCcsmyDlNL6VllcUP3moInLKiDeeB8rdz8YIgQAME5ivlz.1qcJ3RPmtD6rmPDW) (Use password: 0r%+68W6)
+
 #### Projects:
 **Guidelines for Project**
 Each project must
