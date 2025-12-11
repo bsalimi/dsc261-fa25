@@ -71,7 +71,13 @@ Links to video recordings of presentations:
 
 [Nov 21](https://ucsd.zoom.us/rec/share/EzwSVHOgYrZhIw5jzoKCcsmyDlNL6VllcUP3moInLKiDeeB8rdz8YIgQAME5ivlz.1qcJ3RPmtD6rmPDW) (Use password: 0r%+68W6)
 
-[Dec 3 afternoon](https://ucsd.zoom.us/rec/share/CNJaNHP0up_n1tEsAoU1yufrWbZ7OYmrI3n9u9yZuBhYoUqwpy890ecgj2xxMdsv.CTT8kwGgL-hDZ6cW) (Passcode: NPYKiF7&)
+[Nov 24](https://ucsd.zoom.us/rec/share/vKljPAAh25UC4Vp1Pp6a-8Z6OJljAhqjtl5dz_vDckL3xH2mjvr48ouR11d_U6zP.KCCirXRI5YkVbUtY) (Passcode: +Xr*88xD)
+
+[Dec 3](https://ucsd.zoom.us/rec/share/0Xm_s44K6EqlQxkQK6QcHvcyPizKLiNzDifKG6cgg1raEzWaDYIwnZwMWyYDu3Ef.rT4zmzjO6FxaSNx5) (Passcode: 0zXqZ&.4)
+
+[Dec 5 noon](https://ucsd.zoom.us/rec/share/eFNmb7kfs-4fHnuYMryDtTgwCMdbzHLdvl4ztD4ptj9xagrb-p78-74bFOwyTUMg.QmThONTTazhOPbUS) (Passcode: 5V5uq=+*)
+
+[Dec 5 afternoon](https://ucsd.zoom.us/rec/share/CNJaNHP0up_n1tEsAoU1yufrWbZ7OYmrI3n9u9yZuBhYoUqwpy890ecgj2xxMdsv.CTT8kwGgL-hDZ6cW) (Passcode: NPYKiF7&)
 
 #### Projects:
 **Guidelines for Project**
