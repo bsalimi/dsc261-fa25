@@ -73,6 +73,8 @@ Links to video recordings of presentations:
 
 [Nov 24](https://ucsd.zoom.us/rec/share/vKljPAAh25UC4Vp1Pp6a-8Z6OJljAhqjtl5dz_vDckL3xH2mjvr48ouR11d_U6zP.KCCirXRI5YkVbUtY) (Passcode: +Xr*88xD)
 
+[Dec 1](https://ucsd.zoom.us/rec/share/aMLJ-NG_xeXvm37qcC833kuQnXnvxEnRlE05gXwjpIp2XogEgZ_cKBtWGfMz-sFD.flPOmgK_9X6i4EpO) (Passcode: Q%M!kK22)
+
 [Dec 3](https://ucsd.zoom.us/rec/share/0Xm_s44K6EqlQxkQK6QcHvcyPizKLiNzDifKG6cgg1raEzWaDYIwnZwMWyYDu3Ef.rT4zmzjO6FxaSNx5) (Passcode: 0zXqZ&.4)
 
 [Dec 5 noon](https://ucsd.zoom.us/rec/share/eFNmb7kfs-4fHnuYMryDtTgwCMdbzHLdvl4ztD4ptj9xagrb-p78-74bFOwyTUMg.QmThONTTazhOPbUS) (Passcode: 5V5uq=+*)
